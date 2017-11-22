@@ -1,6 +1,6 @@
 /**
  * CityPay POS API
- * CityPay Point of Sale API for payment with card present devices including EMV readers and contactless POS readers.  The API makes it simple to add EMV and contactless card acceptance to iOS, Android, Tablet and desktop applicaitons using a HTTPS protocol. It segregates the complexity of payment processing from the sales environment and eliminates any necessity for the target system to handle card data. 
+ * CityPay Point of Sale API for payment with card present devices including EMV readers and contactless POS readers.  The API is available from https://github.com/citypay/citypay-pos-api  The API makes it simple to add EMV and contactless card acceptance to iOS, Android, Tablet and desktop applicaitons using a HTTPS protocol. It segregates the complexity of payment processing from the sales environment and eliminates any necessity for the target system to handle card data. 
  *
  * OpenAPI spec version: 1.0.0
  * Contact: dev@citypay.com
@@ -29,7 +29,7 @@ import PaymentModuleApi from './api/PaymentModuleApi';
 
 
 /**
-* CityPay_Point_of_Sale_API_for_payment_with_card_present_devices_including_EMV_readers_and_contactless_POS_readers_The_API_makes_it_simple_to_add_EMV_and_contactless_card_acceptance_to_iOS_Android_Tablet_and_desktop_applicaitons_using_a_HTTPS_protocol__It_segregates_the_complexity_of_payment_processing_from_the_sales_environment_and_eliminates_any_necessity_for_the_target_system_to_handle_card_data_.<br>
+* CityPay_Point_of_Sale_API_for_payment_with_card_present_devices_including_EMV_readers_and_contactless_POS_readers_The_API_is_available_from_httpsgithub_comcitypaycitypay_pos_apiThe_API_makes_it_simple_to_add_EMV_and_contactless_card_acceptance_to_iOS_Android_Tablet_and_desktop_applicaitons_using_a_HTTPS_protocol__It_segregates_the_complexity_of_payment_processing_from_the_sales_environment_and_eliminates_any_necessity_for_the_target_system_to_handle_card_data_.<br>
 * The <code>index</code> module provides access to constructors for all the classes which comprise the public API.
 * <p>
 * An AMD (recommended!) or CommonJS application will generally do something equivalent to the following:
